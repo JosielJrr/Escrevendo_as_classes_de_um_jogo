@@ -28,10 +28,10 @@ Além disso, deve ter um método chamado atacar que deve atender os seguientes r
 - Se monge -> no ataque exibir (usou artes marciais)
 - Se ninja -> no ataque exibir (usou shuriken)
 
-## Saída
+## Saída:
 
-Ao final deve se exibir uma mensagem:
+Ao final deve se exibir uma mensagem: "o {tipo} atacou usando {ataque}"
 
-- "o {tipo} atacou usando {ataque}"
-  ex: mago atacou usando magia
-  guerreiro atacou usando espada
+**Exemplo:**
+- O mago atacou usando magia
+- O guerreiro atacou usando espada
